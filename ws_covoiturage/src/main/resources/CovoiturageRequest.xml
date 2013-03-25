@@ -1,0 +1,7 @@
+<CovoiturageRequest xmlns="http://" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<!-- xsi:schemaLocation="http://iaws/ws/contractfirst/exemple Covoiturage.xsd"--> 
+> 
+    <Nom>Dupont</Nom>>
+    <Prenom>Jean</Prenom>
+    <Adresse>15 rue de Nantes</Adresse>
+</CovoiturageRequest>
